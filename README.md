@@ -7,4 +7,5 @@ BorderlessFix fixes the "Windowed Fullscreen" mode under your settings!
 - Setting fullscreen to windowed will now center the window on your screen
 
 This mod is specifically for GDWeave
-You can download GDWeave [here](https://github.com/NotNite/GDWeave)
+
+You can download GDWeave [here!](https://github.com/NotNite/GDWeave)
