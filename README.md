@@ -6,6 +6,7 @@ BorderlessFix fixes the "Windowed Fullscreen" mode under your settings!
 - Seamlessly switch between fullscreen modes
 - Setting fullscreen to windowed will now center the window on your screen
 
-This mod is specifically for GDWeave
-
-You can download GDWeave [here!](https://github.com/NotNite/GDWeave)
+# How to Install
+1. Download and install the latest version of the (GDWeave Mod Loader)[https://github.com/NotNite/GDWeave]
+2. Download the latest release of Borderless fix (here)[https://github.com/dragonostic/BorderlessFix/releases/tag/Latest]
+3. Move the downloaded mod folder into the "GDWeave/mods" folder
